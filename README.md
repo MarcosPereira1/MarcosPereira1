@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-595.gif" width="200px" />
+  <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-595.gif" width="200px" style="border: 3px solid #333;" />
 </div>
 
 <h2 align="center">👋 Olá, eu sou o Marcos Pereira</h2>
@@ -40,8 +40,8 @@
 
 <div align="center">
   
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosPereira1&show_icons=true&theme=vue&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPereira1&theme=vue&hide_border=true&layout=compact)
+![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosPereira1&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPereira1&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
