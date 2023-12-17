@@ -6,7 +6,7 @@
 <p align="center">
   Engenheiro de software dedicado ao desenvolvimento web e mobile.
   <br>
- Focado em criar soluções tecnológicas para simplificar a vida das pessoas.
+ Apaixonado por tecnologia, com foco em desenvolver soluções que facilitem a vida das pessoas.
 </p>
 
 <p align="center">
