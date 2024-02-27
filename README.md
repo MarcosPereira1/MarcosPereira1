@@ -1,56 +1,36 @@
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-595.gif" width="200px" style="border: 3px solid #333;" />
+    <img src="https://www.icegif.com/wp-content/uploads/2023/09/icegif-595.gif" width="150" alt="Marcos Pereira" />
 </div>
 
-<h2 align="center">👋 Olá, eu sou o Marcos Pereira</h2>
+<h1 align="center">Marcos Pereira</h1>
+
 <p align="center">
-  Engenheiro de software dedicado ao desenvolvimento web e mobile.
-  <br>
- Apaixonado por tecnologia, com foco em desenvolver soluções que facilitem a vida das pessoas.
+     Engenheiro de Software Mobile com Flutter | Desenvolvedor Front-end Vue.js | Ex QA especialista em testes automatizados
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcospereira2/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:marcosvpsousa01@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
-  </a>
+    📧 <a href="mailto:marcosvpsousa01@gmail.com">Email</a> |
+    🔗 <a href="https://www.linkedin.com/in/marcospereira2/">LinkedIn</a>
 </p>
 
----
+<h2 align="center">🛠 Tecnologias & Ferramentas</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,vue,ts,js,css,html,git,cypress&theme=dark" alt="Tecnologias & Ferramentas" />
+</p>
 
-### 🛠️ Ferramentas e Tecnologias
+<details align="center">
+    <summary><b>Visualize minhas contribuições e mais</b></summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=MarcosPereira1&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPereira1&theme=vue-dark&layout=compact" alt="Most Used Languages" />
+</details>
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+<h2 align="center">🔍 Onde me encontrar</h2>
+<p align="center">
+    <a href="mailto:marcosvpsousa01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/marcospereira2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-</div>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosPereira1&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPereira1&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
-### 👀 Contagem de Visitas
-
-<div align="center">
-  
-![Visitors](https://profile-counter.glitch.me/{MarcosPereira1}/count.svg)
-
+<div align="center" style="margin-top:20px;">
+    <img src="https://profile-counter.glitch.me/{MarcosPereira1}/count.svg" alt="Visitas ao perfil" height="15" />
+    <p style="font-size:10px; color:grey;">Visitas ao perfil</p>
 </div>
