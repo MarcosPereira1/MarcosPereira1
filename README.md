@@ -26,9 +26,14 @@
 
 <h2 align="center">🔍 Onde me encontrar</h2>
 <p align="center">
-    <a href="mailto:marcosvpsousa01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/marcospereira2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:marcosvpsousa01@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="width:40px; height:40px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/marcospereira2/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width:40px; height:40px;" />
+    </a>
 </p>
+
 
 <div align="center" style="margin-top:20px;">
     <img src="https://profile-counter.glitch.me/{MarcosPereira1}/count.svg" alt="Visitas ao perfil" height="15" />
