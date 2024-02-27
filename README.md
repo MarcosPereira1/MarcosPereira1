@@ -8,11 +8,6 @@
      Engenheiro de Software Mobile com Flutter | Desenvolvedor Front-end Vue.js | Ex QA especialista em testes automatizados
 </p>
 
-<p align="center">
-    📧 <a href="mailto:marcosvpsousa01@gmail.com">Email</a> |
-    🔗 <a href="https://www.linkedin.com/in/marcospereira2/">LinkedIn</a>
-</p>
-
 <h2 align="center">🛠 Tecnologias & Ferramentas</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,vue,ts,js,css,html,git,cypress&theme=dark" alt="Tecnologias & Ferramentas" />
