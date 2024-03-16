@@ -15,8 +15,8 @@ Se estiver interessado em minhas contribuições para a comunidade open-source e
 
 <details>
     <summary>Minhas Estatísticas do GitHub</summary>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosPereira1&show_icons=true&theme=vue-dark)
-    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPereira1&theme=vue-dark&layout=compact)
+   <img src="https://github-readme-stats.vercel.app/api?username=MarcosPereira1&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPereira1&theme=vue-dark&layout=compact" alt="Most Used Languages" />
 </details>
 
 ## Onde me encontrar
