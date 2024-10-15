@@ -1,34 +1,49 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=50FA7B&width=435&lines=Hi!+I'm+Marcos.;Mobile+Engineer+with+Flutter.;Exploring+new+technologies+every+day.)
-
-
+# Hello, I'm Marcos Pereira 👋
 
 ---
 
-## 🧑‍💻 Core Technologies
+## 😊 About Me  
+
+I am a **Mobile Software Engineer** specializing in **Flutter**, with additional expertise in **React Native**.  
+I also have strong front-end web development skills using **Vue.js** and **React**, along with experience in **automated testing**.
+
+---
+
+## 🧑‍💻 Core Technologies  
 
 <div align="center">
-
-| **Mobile Development**               | **Web Development**            | **Testing & Automation**  |
-|--------------------------------------|--------------------------------|---------------------------|
-| Flutter • Dart • React Native        | Vue.js • React • JavaScript    | Cypress • Jest            |
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="Docker" />
 </div>
 
 ---
 
-## 🎯 About Me  
-I am a **Mobile Software Engineer** with a passion for building elegant and efficient apps. Drawing from my past experience in **QA**, I have a strong focus on reliability and performance. Currently, I am expanding my knowledge in **backend development** with **Node.js** and always open to new learning opportunities.
+<details>
+  <summary>📈 My GitHub Stats</summary>
+  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MarcosPereira1&show_icons=true&theme=vue-dark&bg_color=1a1b27&icon_color=ff79c6&text_color=f8f8f2&title_color=50fa7b" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPereira1&theme=vue-dark&layout=compact&bg_color=1a1b27&text_color=f8f8f2" height="150">
+  </div>
+</details>
 
 ---
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcospereira2/)  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcospereira2/)  
 📧 **Email:** marcosvpsousa01@gmail.com  
 
----
-
-## 📈 My GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosPereira1&show_icons=true&theme=vue-dark&bg_color=1a1b27&icon_color=ff79c6&text_color=f8f8f2&title_color=50fa7b" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPereira1&theme=vue-dark&layout=compact&bg_color=1a1b27&text_color=f8f8f2" height="150">
 </div>
