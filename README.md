@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=50FA7B&width=435&lines=Hi!+I'm+Marcos+Pereira.;Mobile+Engineer+focused+on+Flutter.;I+also+work+with+Vue+and+React.;Experienced+in+React+Native.;Exploring+backend+with+Node.js.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=50FA7B&width=435&lines=Hi!+I'm+Marcos.;Mobile+Engineer+with+Flutter.;Exploring+new+technologies+every+day.)
+
+
 
 ---
 
