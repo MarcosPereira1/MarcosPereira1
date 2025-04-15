@@ -56,9 +56,12 @@
 
 ---
 
-<p align="center"><i>"Simplicity is the soul of efficiency." – Austin Freeman</i></p>
+---
+
+<p align="center"><i>"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." – Samuel Beckett</i></p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/kJh0cK6_RDEAAAAC/anime-unclephuc.gif" width="300" alt="Saitama Ok" />
+  <img src="https://i.pinimg.com/originals/6f/96/90/6f9690edd134963d84d1a40e7114702b.gif" width="300" alt="Mob tentando e errando" />
 </p>
+
 
