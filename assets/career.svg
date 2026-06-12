@@ -1,0 +1,133 @@
+<svg width="850" height="430" viewBox="0 0 850 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: "SFMono-Regular", "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
+    }
+    .year  { font-size: 12px; fill: #565f89; text-anchor: end; }
+    .role  { font-size: 14px; font-weight: 600; }
+    .desc  { font-size: 12px; fill: #565f89; }
+    .note  { font-size: 12px; font-style: italic; fill: #565f89; }
+
+    .line {
+      stroke-dasharray: 330;
+      stroke-dashoffset: 330;
+      animation: draw 2.4s ease-out 0.3s forwards;
+    }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+
+    .e { opacity: 0; animation: in 0.6s ease forwards; }
+    .e1 { animation-delay: 0.4s; }
+    .e2 { animation-delay: 0.8s; }
+    .e3 { animation-delay: 1.2s; }
+    .e4 { animation-delay: 1.6s; }
+    .e5 { animation-delay: 2.0s; }
+    .e6 { animation-delay: 2.4s; }
+    .e7 { animation-delay: 3.0s; }
+    @keyframes in {
+      from { opacity: 0; transform: translateX(-8px); }
+      to   { opacity: 1; transform: none; }
+    }
+
+    .pulse {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: pulse 2.4s ease-out 1s infinite;
+    }
+    @keyframes pulse {
+      0%   { transform: scale(1);   opacity: 0.8; }
+      70%, 100% { transform: scale(2.6); opacity: 0; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .line { animation: none; stroke-dashoffset: 0; }
+      .e { animation: none; opacity: 1; }
+      .pulse { animation: none; opacity: 0; }
+    }
+
+    @media (prefers-color-scheme: light) {
+      text[fill="#7dcfff"] { fill: #2e7de9; }
+      text[fill="#e0af68"] { fill: #8c6c3e; }
+      text[fill="#bb9af7"] { fill: #7847bd; }
+      text[fill="#9ece6a"] { fill: #587539; }
+      text[fill="#73daca"] { fill: #118c74; }
+      text[fill="#787c99"] { fill: #4c505e; }
+
+      circle[stroke="#7dcfff"] { stroke: #2e7de9; }
+      circle[stroke="#bb9af7"] { stroke: #7847bd; }
+      circle[stroke="#9ece6a"] { stroke: #587539; }
+      circle[stroke="#73daca"] { stroke: #118c74; }
+      circle[stroke="#565f89"] { stroke: #9699a3; }
+      rect[stroke="#e0af68"]   { stroke: #8c6c3e; }
+
+      circle[fill="#1a1b26"], rect[fill="#1a1b26"] { fill: #ffffff; }
+      .pulse { fill: #2e7de9; }
+
+      .tl-a { stop-color: #2e7de9; }
+      .tl-b { stop-color: #7847bd; }
+      .tl-c { stop-color: #9699a3; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="tl" x1="0" y1="36" x2="0" y2="366" gradientUnits="userSpaceOnUse">
+      <stop class="tl-a" offset="0"   stop-color="#7dcfff"/>
+      <stop class="tl-b" offset="0.5" stop-color="#bb9af7"/>
+      <stop class="tl-c" offset="1"   stop-color="#565f89"/>
+    </linearGradient>
+  </defs>
+
+  <path class="line" d="M 90 36 L 90 366" stroke="url(#tl)" stroke-width="2"/>
+
+  <!-- now: Octadesk mobile pleno -->
+  <g class="e e1">
+    <circle class="pulse" cx="90" cy="46" r="6" fill="#7dcfff"/>
+    <circle cx="90" cy="46" r="5" fill="#1a1b26" stroke="#7dcfff" stroke-width="2"/>
+    <text class="year" x="72" y="50">now</text>
+    <text class="role" x="112" y="51" fill="#7dcfff">Mobile Engineer II &#183; Octadesk</text>
+    <text class="desc" x="112" y="70">Clean Architecture &#183; BLoC &#183; performance on critical flows</text>
+  </g>
+
+  <!-- 2025: ContAiNutri -->
+  <g class="e e2">
+    <rect x="85" y="103" width="10" height="10" rx="2" transform="rotate(45 90 108)" fill="#1a1b26" stroke="#e0af68" stroke-width="2"/>
+    <text class="year" x="72" y="112">2025</text>
+    <text class="role" x="112" y="113" fill="#e0af68">ContAiNutri &#183; side project</text>
+    <text class="desc" x="112" y="132">AI nutrition app &#183; Flutter + Laravel &#183; OpenAI &amp; Gemini vision</text>
+  </g>
+
+  <!-- 2024: Octadesk mobile -->
+  <g class="e e3">
+    <circle cx="90" cy="170" r="5" fill="#1a1b26" stroke="#bb9af7" stroke-width="2"/>
+    <text class="year" x="72" y="174">2024</text>
+    <text class="role" x="112" y="175" fill="#bb9af7">Mobile Engineer &#183; Octadesk</text>
+    <text class="desc" x="112" y="194">Flutter &#183; unit &amp; widget tests &#183; CI/CD to Play Store and App Store</text>
+  </g>
+
+  <!-- 2022: QA Octadesk -->
+  <g class="e e4">
+    <circle cx="90" cy="232" r="5" fill="#1a1b26" stroke="#9ece6a" stroke-width="2"/>
+    <text class="year" x="72" y="236">2022</text>
+    <text class="role" x="112" y="237" fill="#9ece6a">QA Engineer &#183; Octadesk</text>
+    <text class="desc" x="112" y="256">web &amp; mobile test automation &#183; pentest &#183; k6 performance</text>
+  </g>
+
+  <!-- 2022: Tarkuss -->
+  <g class="e e5">
+    <circle cx="90" cy="294" r="5" fill="#1a1b26" stroke="#73daca" stroke-width="2"/>
+    <text class="year" x="72" y="298">2022</text>
+    <text class="role" x="112" y="299" fill="#73daca">QA Analyst &#183; Tarkuss</text>
+    <text class="desc" x="112" y="318">manual &amp; automated testing &#183; k6 + Grafana</text>
+  </g>
+
+  <!-- 2019: formacao -->
+  <g class="e e6">
+    <circle cx="90" cy="356" r="5" fill="#1a1b26" stroke="#565f89" stroke-width="2"/>
+    <text class="year" x="72" y="360">2019</text>
+    <text class="role" x="112" y="361" fill="#787c99">B.Sc. Computer Science</text>
+    <text class="desc" x="112" y="380">+ MBA in Software Engineering (2024)</text>
+  </g>
+
+  <g class="e e7">
+    <text class="note" x="112" y="416">// from QA to mobile &#8212; quality is in the DNA</text>
+  </g>
+</svg>

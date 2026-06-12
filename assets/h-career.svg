@@ -1,0 +1,29 @@
+<svg width="800" height="44" viewBox="0 0 800 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .h {
+      font-family: "SFMono-Regular", "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 15px;
+    }
+    .prompt { fill: #9ece6a; }
+    .name   { fill: #c0caf5; }
+    .cursor { animation: blink 1s steps(1, end) infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+    @media (prefers-color-scheme: light) {
+      .prompt { fill: #587539; }
+      .name   { fill: #343b58; }
+      rect.cursor { fill: #343b58; }
+      .stop-a { stop-color: #2e7de9; }
+      .stop-b { stop-color: #7847bd; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="rule" x1="200" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop class="stop-a" offset="0" stop-color="#7dcfff" stop-opacity="0.6"/>
+      <stop class="stop-b" offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <text class="h" x="2" y="28"><tspan class="prompt">$ </tspan><tspan class="name">git log --career</tspan></text>
+  <rect class="cursor" x="170" y="14" width="8" height="16" fill="#c0caf5"/>
+  <line x1="195" y1="22" x2="798" y2="22" stroke="url(#rule)" stroke-width="1"/>
+</svg>

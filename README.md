@@ -1,65 +1,21 @@
-<h1 align="center">Marcos Pereira</h1>
-<p align="center">
-  <strong>Mobile Software Engineer</strong> • Flutter | React Native | Vue.js  
-</p>
-<p align="center">
-  Building seamless and scalable mobile experiences focused on performance and UX.
-</p>
+<div align="center">
+  <img src="assets/hero.svg" width="850" alt="profile.dart: código Flutter sendo digitado e renderizado em um celular ao lado — Marcos Pereira, Mobile Software Engineer. Stack: Flutter, React Native, Vue." />
+</div>
 
----
+<img src="assets/h-career.svg" width="800" alt="$ git log --career" />
 
-## 🛠 Tech Stack
+<div align="center">
+  <img src="assets/career.svg" width="850" alt="Timeline da carreira: de QA até Mobile Engineer II na Octadesk, com o side project ContAiNutri (app de nutrição com IA em Flutter)." />
+</div>
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/>Flutter</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/><br/>Dart</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>React Native</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/>Vue.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/><br/>Firebase</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>Docker</td>
-  </tr>
-</table>
-
----
-
-<details>
-  <summary><strong>📊 GitHub Insights</strong></summary>
-  <br/>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=MarcosPereira1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPereira1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-
-</details>
-
----
-
-## 📬 Let's Connect
+<img src="assets/h-connect.svg" width="800" alt="$ ping marcos" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcospereira2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="assets/btn-linkedin.svg" width="200" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:marcosvpsousa01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="assets/btn-email.svg" width="200" alt="Email" />
   </a>
 </p>
-
----
-
-<p align="center"><i>"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better." – Samuel Beckett</i></p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6f/96/90/6f9690edd134963d84d1a40e7114702b.gif" width="300" alt="Mob tentando e errando" />
-</p>
-
-

@@ -1,0 +1,21 @@
+<svg width="200" height="44" viewBox="0 0 200 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .label {
+      font-family: "SFMono-Regular", "SF Mono", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 14px;
+      fill: #c0caf5;
+    }
+    .frame { animation: glow 3s ease-in-out infinite; }
+    @keyframes glow {
+      0%, 100% { stroke-opacity: 0.5; }
+      50%      { stroke-opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) { .frame { animation: none; } }
+  </style>
+  <rect class="frame" x="1" y="1" width="198" height="42" rx="21" fill="#1a1b26" stroke="#f7768e" stroke-width="1.5"/>
+  <g transform="translate(64, 15)" stroke="#f7768e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="20" height="14" rx="2"/>
+    <path d="M1 1.5 L10 8.5 L19 1.5" fill="none"/>
+  </g>
+  <text class="label" x="94" y="27">Email</text>
+</svg>
